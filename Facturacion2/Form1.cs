@@ -19,7 +19,7 @@ namespace Facturacion2
 
         private void CTR_btn_Click(object sender, EventArgs e)
         {
-            conexion2.conexion();
+            conexion2.conexion();//class call where is the connexion
         }
     }
 }
