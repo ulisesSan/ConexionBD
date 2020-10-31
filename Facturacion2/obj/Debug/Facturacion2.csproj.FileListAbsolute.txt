@@ -48,3 +48,4 @@ C:\Users\Ulises CL\Documents\GitHub\ConexionBD\Facturacion2\obj\Debug\Facturacio
 C:\Users\Ulises CL\Documents\GitHub\ConexionBD\Facturacion2\obj\Debug\Facturacion2.csproj.CopyComplete
 C:\Users\Ulises CL\Documents\GitHub\ConexionBD\Facturacion2\obj\Debug\Facturacion2.exe
 C:\Users\Ulises CL\Documents\GitHub\ConexionBD\Facturacion2\obj\Debug\Facturacion2.pdb
+C:\Users\Ulises CL\Documents\GitHub\ConexionBD\Facturacion2\obj\Debug\Facturacion2.consProd.resources
